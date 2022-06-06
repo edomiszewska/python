@@ -4,3 +4,7 @@ b = 4
 print ('6 + 4 wynosi', a + b)
 # odejmowanie
 print ('6 - 4 wynosi', a - b)
+# mnozenie
+print ('6 * 4 wynosi', a * b)
+# dzielenie
+print ('6 / 4 wynosi', a/b)
