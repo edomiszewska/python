@@ -1,3 +1,4 @@
+# tu mozna zmieniac swoje zmienne do obliczeń
 a = 6
 b = 4
 # dodawanie
